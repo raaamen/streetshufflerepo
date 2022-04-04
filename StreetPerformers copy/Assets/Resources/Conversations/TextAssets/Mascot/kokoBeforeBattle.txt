@@ -1,0 +1,29 @@
+[#Mascot(???)]
+HEY! 
+[Ace]
+Huh?
+[#Mascot(???)]
+You with the hat! STOOOP!
+[Ace-Negative]
+What's the problem? I'm just doing some card tricks.
+[#Mascot-Crying]
+Koko has been on this block for forever, dancing and getting her picture taken!
+You can't just waltz in here and start stealing Koko's audience!
+[Ace-Smug]
+The street's big enough for the both of us. I'm sure we can just do our funny tricks together, no problem.
+[#Mascot-Crying]
+No, no, NO! Koko doesn't want to share!!! Koko wants all the crowd's attention on her!
+[Ace-Negative]
+Isn't that a little conceited?
+[#Mascot-Think]
+WHAT DID YOU SAY TO KOKO? GRRRRR!!!
+[Ace-Default]
+Hey, I don't wanna start anything, okay? I'm sorry! You don't have to worry about me!
+I'll just move over here and-
+[#Mascot]
+YOU THINK KOKO IS JUST GONNA LET YOU GO?
+DO YOU THINK KOKO WAS BORN YESTERDAY?
+If you want to stay here in Dunkopolis you're gonna have to PROVE you can handle it!
+We'll let the crowd decide who they like the most!
+[Ace]
+Fine by me. Let's go!

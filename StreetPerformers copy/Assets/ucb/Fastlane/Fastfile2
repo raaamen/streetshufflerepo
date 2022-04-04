@@ -1,0 +1,23 @@
+fastlane_version "2.68.0"
+
+
+ENV["FASTLANE_USER"] = "ucbmassdigi@gmail.com"
+ENV["FASTLANE_PASSWORD"] = "MassDiGI2020!"
+ENV["FASTLANE_APPLE_APPLICATION_SPECIFIC_PASSWORD"] = "irkp-atil-aupo-vazr"
+ENV["FASTLANE_SESSION"] = '---\n- !ruby/object:HTTP::Cookie\n  name: myacinfo\n  value: DAWTKNV323952cf8084a204fb20ab2508441a07d02d3fb23102a416333854635cf2ad340d5f2f1035a14f1f1eef01acd2ddc4b1dbedc0723f8ccb1ae9ebff4908837b5b5b3ec327c9f1fd078d61bf96bc6feef5c202607b2567755937a24289392f676e99e9e8d42389a2a326b16c5717a125495402e6ef8ee00f7b6eebc0dc9c6ca12914a20c64be5145627e6e71847eaff2ec0c80eea68588b08ccb5bc74ec9bb23c941e77d73102573cdf0f8a260a043e9d56bd0cfa17125dc4e6cd22214e96a2c2eff8296321280d6a396408ac96534d4db57cc1c19983971bdcdc6c600545410e54c484238f0d12c7ecb0fc371412da2cba1bbc30326d21f6a1a151d4075ff115b7fd7f30c8815de8c50e8244666f23b62d370c51865547e312dc239c3ee01783225fe82b4d1de009c2b55c3ebcf90a357d1568372424dba067f8c4d03f92c2ffb414f77150e9fda2ddce35e5dd9527f416bc3a7874e9f84cb9c5e6ecce4651f83d8a944ff5dacf6b91b9b11c2b72a1c71d47ecfbae7616468787c1fd99e49f27685f1745b06f4feabbaf838e3d4a6b6ab9b60e6ef07ecb4ce76d6e8e962c5b828e988bcc5f59e88c04023c92a78d0769d6b96c2dd45aac066eaab1fcd83d89a3f997f5fe5d9ac2e3520bd8e9ba44f4a945e1b79243655fca0e1addfcad4d30857a34acf058c53e7990343a53aafc3f0953b15a262e2ef66ef9e9fefcdbcfdd68fde1263e30f2b10f54e88a0f26c675af26cd4d61b5312a056829a898a39222b64e7b9723136c923892005c91239ce3512ae265f5c151c1fae79dc94d68d9b80083f37894d2585afa6fe2704fd997b0ab891e3e585a47V3\n  domain: apple.com\n  for_domain: true\n  path: "/"\n  secure: true\n  httponly: true\n  expires:\n  max_age:\n  created_at: 2021-08-27 20:49:31.654053000 -07:00\n  accessed_at: 2021-08-27 20:49:31.663090000 -07:00\n- !ruby/object:HTTP::Cookie\n  name: DES5d42e50bf9959f8209a526796a6e112f3\n  value: HSARMTKNSRVXWFlaAdO8Mm8hx7qeICS/0ZMrgfw0rlKj+o+WdFn/VVsWan1/azcOSRRUY/wVvX7/yP8AmLnghPkAKEYcdSttIOVwJNbtoSbirlrBpOemQ8rjGtytfDiyBXGkkWm3osywBhAVh1eHLVlxfU4TkQwLvi9471QyFrig2dah617co9vUa2e1V9gP76AEqg==SRVX\n  domain: idmsa.apple.com\n  for_domain: true\n  path: "/"\n  secure: true\n  httponly: true\n  expires:\n  max_age: 2592000\n  created_at: &1 2021-08-27 20:49:31.653835000 -07:00\n  accessed_at: *1\n- !ruby/object:HTTP::Cookie\n  name: dqsid\n  value: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MzAxMjI1NzEsImp0aSI6Ik5NUjVOR2dTRU5FVmVUcGdCNmhBdlEifQ.oT3YmoEHSnV5pCJY-jIZpKk8jDFgIU5c9NT2Oz1t0OQ\n  domain: appstoreconnect.apple.com\n  for_domain: false\n  path: "/"\n  secure: true\n  httponly: true\n  expires:\n  max_age: 1800\n  created_at: &2 2021-08-27 20:49:32.133146000 -07:00\n  accessed_at: *2\n'
+
+#FASTLANE_APPLE_APPLICATION_SPECIFIC_PASSWORD = "hpgh-vxmr-hksk-mtru"
+
+default_platform :ios
+
+# Fastfile actions accept additional configuration, but
+# don't worry, fastlane will prompt you for required
+# info which you can add here later
+lane :UploadToTestflight do
+  upload_to_testflight(
+    skip_submission: true,
+    app_identifier: "com.MassDiGI.Pie",
+    skip_waiting_for_build_processing: true,
+  )
+
+end

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{1c2a8ddf-9a71-4b77-8088-6630d83b3390}">
+		<property name="assetPath">
+			<value>Music/mx_stem_dialogue_cop_drums.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>52.363628117913834</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{125f7d03-2907-47c1-a31d-ea617e04ab05}</destination>
+		</relationship>
+	</object>
+</objects>

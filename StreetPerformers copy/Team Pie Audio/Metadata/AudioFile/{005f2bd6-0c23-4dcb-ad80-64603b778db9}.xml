@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{005f2bd6-0c23-4dcb-ad80-64603b778db9}">
+		<property name="assetPath">
+			<value>SFX/sfx_combat_card_retract_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{125f7d03-2907-47c1-a31d-ea617e04ab05}</destination>
+		</relationship>
+	</object>
+</objects>

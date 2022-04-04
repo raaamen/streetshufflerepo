@@ -1,0 +1,26 @@
+[#Contortionist(???)-Legs]
+OW OW OWWWW I THINK I BROKE MY ANKLE!! Wait. Hold on. 
+*pop*
+[#Contortionist(???)-Default]
+Yep. We’re good now.
+[Ace-Negative]
+Did you just fix a broken ankle??
+[#Contortionist(???)]
+Nahhh it was just twisted. Just had to uh, y’know, un-twist it. 
+[#Contortionist(???)-Cocky]
+Easy for me, I’m pretty bendy! ;)
+[#Contortionist(???)-Default]
+Anyways, you’re pretty cool, man. Wanna, I dunno, team up? Or something?
+[Ace]
+Sure! I could use a friend to do tricks with.
+[#Contortionist]
+Yeahhh man, my schedule is pretty… flexible ;) So I can hang around.
+Name's Gem by the way. And you are?
+[Ace]
+I'm Ace!
+[#Contortionist]
+Ace... Groovy man!
+Hey, while we're at it, I've heard there's a special event in Dunkopolis soon.
+Apparently there's gonna be a huge show! But tickets are REALLY expensive.
+Now that you're here, we can busk twice as fast and twice as good! We'll get the money in no time.
+Lookin' forward to doing business with ya'!

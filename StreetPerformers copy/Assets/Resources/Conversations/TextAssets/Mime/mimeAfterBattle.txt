@@ -1,0 +1,22 @@
+[#Mime(???)]
+..........
+[Ace]
+So what did you think of my tricks?
+[#Mime(???)]
+..........
+[Ace]
+Impressive, huh?
+You're not too bad yourself. How 'bout we team up and take on the streets of Dunkopolis together?
+[#Mime(???)]
+..........
+[Ace]
+Say no more! Let's do it!
+I'm Ace by the way! And you are?
+[#Mime(???)-Think]
+..........
+[Ace]
+It's ok. Take your time!
+[#Mime]
+..........
+[Ace]
+Maybe we'll get to know each other better later...

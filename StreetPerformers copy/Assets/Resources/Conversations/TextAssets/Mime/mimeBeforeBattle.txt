@@ -1,0 +1,21 @@
+[Ace]
+Hey, who are you?
+[#Mime(???)-Negative]
+…………
+[Ace]
+Don't talk much do you?
+Are you here to stop me from busking on the street?
+[#Mime(???)-Negative]
+……………
+[Ace]
+I just wanna show people what I can do.
+I've still got a long ways to go, but my card tricks are pretty good.
+[#Mime(???)-Think]
+………………………
+[Ace]
+You want me to fight you to prove my worth?
+Only if you're prepared to give it your all!
+[#Mime(???)-Default]
+……………………
+[Ace]
+Let's go!

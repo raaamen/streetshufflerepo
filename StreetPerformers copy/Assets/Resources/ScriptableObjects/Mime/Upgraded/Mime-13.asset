@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3058e9461ab1be0488512113a615c6fe, type: 3}
+  m_Name: Mime-13
+  m_EditorClassIdentifier: 
+  _id: Mime-13
+  _saveId: IntenseFocus
+  _cardPrefab: {fileID: 5971801770388029214, guid: 12ae61634312c2a4aa560dfae040f1ea, type: 3}
+  _cardName: Intense Focus+
+  _class: 2
+  _cardDesc: Armor no longer decreases each round. Burned
+  _cardDescUneditted: Armor no longer decreases each round. Burned
+  _requiredLevel: 9
+  _canTargetSelf: 1
+  _canTargetAllAllies: 0
+  _canTargetEnemy: 0
+  _hitSingleEnemy: 0
+  _hitAllEnemies: 0
+  _openingAct: 0
+  _manaType: 2
+  _manaCost: 0
+  _condition: 0
+  _dealsDamage: 0
+  _attackType: 0
+  _targetDamage: 0
+  _allDamage: 0
+  _damageInstances: 0
+  _damageMultiplier: 0
+  _bonusDamage: 0
+  _givesArmor: 0
+  _armor: 2
+  _damageReduction: 0
+  _armorMultiplier: 0
+  _restoresMana: 0
+  _manaRestore: 1
+  _manaMultiplier: 0
+  _dealsSelfDamage: 0
+  _selfDamage: 0
+  _selfWeakness: 1
+  _selfPoison: 0
+  _heals: 0
+  _healingAmount: 0
+  _addedMaxHealth: 0
+  _appliesEffect: 1
+  _weakness: 0
+  _poison: 0
+  _defense: 0
+  _rage: 0
+  _burned: 1
+  _exhausted: 0
+  _addedPoison: 0
+  _effectOnHit: 0
+  _hitPoison: 0
+  _hitWeakness: 0
+  _hitDamage: 0
+  _adjustable: 0
+  _burnAtZero: 0
+  _damagePerUse: 0
+  _accumulatedDamage: 0
+  _armorPerUse: -3
+  _accumulatedArmor: 0
+  _discardEffect: 0
+  _discardDamage: 0
+  _discardPoison: 0
+  _specialType: 20
+  _expMult: 0
+  _discardAmount: 0
+  _protLength: 0
+  _baseDamage: 0
+  _missingHealthMult: 0
+  _healPerMissingHealth: 0
+  _damageOdds: 0
+  _damageOddsAmount: 0
+  _armorOdds: 0
+  _armorOddsAmount: 0
+  _selfDamageOdds: 0
+  _selfDamageOddsAmount: 0
+  _perDebuffType: 0
+  _damagePerDebuff: 0
+  _cardType: 0
+  _healthPerCard: 0
+  _armorPerCard: 0
+  _damagePerArmor: 1
+  _healthPerArmor: 0
+  _armorPerMana: 0
+  _permaArmor: 0
+  _allPoisonMult: 0
+  _allArmorMult: 2
+  _cardDisables: 0
+  _remainingHealthPercentage: 0
+  _remainingHealthMinimum: 0
+  _reduceAmount: 0
+  _addedCard: {fileID: 0}
+  _maxManaReduction: 0
+  _armorReduction: 1
+  _exhaustAmount: 0
+  _weaknessPerDiscard: 0
+  _healthPerDiscard: 0
+  _manaReduction: 0
+  _additionalMagicianCardEffectType: 0
+  _damagePerMagicianCard: 0
+  _armorPerMagicianCard: 0
+  _magicianCardStillEffective: 0
+  _damagePerUnusedMana: 0
+  _poisonPerUnusedMana: 0
+  _poisonPerHit: 0
+  _debuffPerTurnType: 0
+  _debuffPerTurn: 0
+  _poisonPerCardUsed: 0
+  _damageTakenPerCardUsed: 0

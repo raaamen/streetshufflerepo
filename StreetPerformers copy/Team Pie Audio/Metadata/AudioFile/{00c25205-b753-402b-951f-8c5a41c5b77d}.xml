@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{00c25205-b753-402b-951f-8c5a41c5b77d}">
+		<property name="assetPath">
+			<value>SFX/sfx_combat_attack_noise_1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{125f7d03-2907-47c1-a31d-ea617e04ab05}</destination>
+		</relationship>
+	</object>
+</objects>

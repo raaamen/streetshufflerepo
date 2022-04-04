@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3058e9461ab1be0488512113a615c6fe, type: 3}
+  m_Name: Mime-8
+  m_EditorClassIdentifier: 
+  _id: Mime-8
+  _cardPrefab: {fileID: 5971801770388029214, guid: 12ae61634312c2a4aa560dfae040f1ea, type: 3}
+  _cardName: Set Ablaze
+  _class: 2
+  _cardDesc: Any attackers this turn take 4 damage
+  _cardDescUneditted: Any attackers this turn take <HitDamage> damage
+  _requiredLevel: 0
+  _canTargetSelf: 1
+  _canTargetAllAllies: 0
+  _canTargetEnemy: 0
+  _hitSingleEnemy: 0
+  _hitAllEnemies: 0
+  _openingAct: 0
+  _manaType: 0
+  _manaCost: 0
+  _condition: 0
+  _dealsDamage: 0
+  _attackType: 1
+  _targetDamage: 5
+  _allDamage: 0
+  _damageInstances: 0
+  _damageMultiplier: 0
+  _bonusDamage: 0
+  _givesArmor: 0
+  _armor: 6
+  _damageReduction: 0
+  _armorMultiplier: 0
+  _restoresMana: 0
+  _manaRestore: 0
+  _manaMultiplier: 0
+  _dealsSelfDamage: 0
+  _selfDamage: 0
+  _selfWeakness: 0
+  _selfPoison: 0
+  _heals: 0
+  _healingAmount: 2
+  _addedMaxHealth: 0
+  _appliesEffect: 0
+  _weakness: 0
+  _poison: 0
+  _defense: 0
+  _rage: 0
+  _burned: 0
+  _exhausted: 0
+  _addedPoison: 0
+  _effectOnHit: 1
+  _hitPoison: 0
+  _hitWeakness: 0
+  _hitDamage: 4
+  _adjustable: 0
+  _burnAtZero: 0
+  _damagePerUse: 0
+  _accumulatedDamage: 0
+  _armorPerUse: 0
+  _accumulatedArmor: 0
+  _discardEffect: 0
+  _discardDamage: 0
+  _discardPoison: 0
+  _specialType: 0
+  _expMult: 0
+  _discardAmount: 0
+  _protLength: 0
+  _baseDamage: 0
+  _missingHealthMult: 0
+  _healPerMissingHealth: 0.35
+  _damageOdds: 0
+  _damageOddsAmount: 0
+  _armorOdds: 0
+  _armorOddsAmount: 0
+  _selfDamageOdds: 0
+  _selfDamageOddsAmount: 0
+  _damagePerDebuff: 0
+  _cardType: 0
+  _healthPerCard: 0
+  _armorPerCard: 0
+  _damagePerArmor: 0
+  _healthPerArmor: 0
+  _armorPerMana: 0
+  _permaArmor: 0
+  _allPoisonMult: 0
+  _allArmorMult: 0
+  _cardDisables: 0
+  _remainingHealthPercentage: 0.4
+  _remainingHealthMinimum: 0
+  _reduceAmount: 2
+  _addedCard: {fileID: 0}
+  _maxManaReduction: 0
+  _armorReduction: 0
+  _exhaustAmount: 0
+  _weaknessPerDiscard: 0
+  _healthPerDiscard: 0
+  _manaReduction: 0
+  _additionalMagicianCardEffectType: 0
+  _damagePerMagicianCard: 0
+  _armorPerMagicianCard: 0
+  _magicianCardStillEffective: 0
+  _damagePerUnusedMana: 0
+  _poisonPerUnusedMana: 0
+  _poisonPerCardUsed: 0
+  _damageTakenPerCardUsed: 0

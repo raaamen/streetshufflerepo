@@ -1,0 +1,17 @@
+Mime
+Test file, I'm seeing if I can properly break down text
+into multiple lines.
+Magician
+I'm not sure if it will work. 
+But we'll see....
+Mime
+We'll I'd like to see if it works,
+oh wow I actually think it's working
+this weill be great to show to the group.
+Magician
+Yeah It's really quite good isn't it.
+Makes it pretty simple to use...
+just have to figure out how
+it will be simply called in script. 
+Mime
+That is a good point...

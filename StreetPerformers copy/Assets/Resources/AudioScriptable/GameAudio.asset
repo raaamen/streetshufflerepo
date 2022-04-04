@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb358b57d9ccd420fb7f3fe904aefb22, type: 3}
+  m_Name: GameAudio
+  m_EditorClassIdentifier: 
+  Battle_Music: event:/Music/battle_music
+  Map_Music: event:/Music/map_music
+  Victory_Jingle: event:/Music/Victory_Jingle
+  Defeat_Jingle: event:/Music/Defeat_Jingle
+  Card_Hit: event:/SFX/Combat/Card_Hit
+  Card_Armor: event:/SFX/Combat/Card_Armor
+  Card_Special: event:/SFX/Combat/Card_Special
+  Card_Pickup: event:/SFX/Combat/Card_Pickup
+  Card_Retract: event:/SFX/Combat/Card_Retract
+  Player_Death: event:/SFX/Combat/Player_Death
+  Player_Health_Drop: event:/SFX/Combat/Player_Health_Drop
+  Button_Forward: event:/SFX/UI/Button_Forward
+  Button_Backward: event:/SFX/UI/Button_Backward
+  Level_Select: event:/SFX/UI/Level_Select
+  Card_History_Popup: event:/SFX/UI/Card_History_Popup
+  Card_Histroy_Popout: event:/SFX/UI/Card_History_Popout
+  End_Turn_Button: event:/SFX/UI/End_Turn_Button
+  Menu_Popup: event:/SFX/UI/Menu_Popup
+  Menu_Popout: event:/SFX/UI/Menu_Popout
+  Advance_Text: event:/SFX/UI/Advance_Text

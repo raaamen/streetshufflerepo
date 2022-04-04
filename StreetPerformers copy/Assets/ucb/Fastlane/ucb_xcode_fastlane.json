@@ -1,0 +1,6 @@
+{
+    "fastfile": "Assets/ucb/Fastlane/Fastfile2",
+    "lanes": {
+        "post_build": "UploadToTestflight"
+    }
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{964505e4-12cf-4bfa-8d0c-78760dbf1ce6}">
+		<property name="name">
+			<value>InMenu</value>
+		</property>
+		<relationship name="folder">
+			<destination>{2517cb1b-b477-48dd-bde9-cbdd75153758}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{9e5d6c5b-9c8d-490c-87a6-b4c0faf7d5b5}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{9e5d6c5b-9c8d-490c-87a6-b4c0faf7d5b5}">
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
